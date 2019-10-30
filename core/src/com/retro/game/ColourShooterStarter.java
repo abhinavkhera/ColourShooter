@@ -8,7 +8,7 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.retro.game.states.GameStateManager;
 import com.retro.game.states.MenuState;
 
-public class ColourShooter extends ApplicationAdapter {
+public class ColourShooterStarter extends ApplicationAdapter {
 	public static final String TITILE = "Colour Shooter";
 	private GameStateManager gsm;
 	private SpriteBatch batch;
